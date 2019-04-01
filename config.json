@@ -17,10 +17,10 @@
     ],
     "violation_frame_path": "../Violations",
     "telegram_chat_id": [
-        "-361703536",
-        "-361703536"
+        "chat_id",
+        "chat_id"
     ],
-    "bot_token": "748225256:AAFFhmHUnWHXnj8J4-gnbeLZNJXLw2F3jak",
+    "bot_token": "token",
     "violation_seconds_to_wait": 0.0,
     "frame_num_thresh": 20,
     "alert_ratio": 0.3,
